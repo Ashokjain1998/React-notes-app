@@ -1,6 +1,6 @@
 # React-notes-app
- Getting Started with Create React App
-This project was bootstrapped with Create React App.
+ Getting Started with Create React notes App
+This project was bootstrapped with Create React notes App.
 
 Available Scripts
 In the project directory, you can run:
