@@ -58,7 +58,7 @@ my-app
 │   ├── favicon.ico
 │   ├── index.html
 │   └── manifest.json
-└── src
+   src
     ├── App.css
     ├── App.js
     ├── App.test.js
